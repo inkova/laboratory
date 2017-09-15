@@ -1,1 +1,2 @@
 hello!
+I think all is ok!
